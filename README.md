@@ -7,7 +7,7 @@ This project automates the employee management process on the OrangeHRM demo sit
 - **Java 11** or above
 - **Gradle** for dependency management
 - **Selenium** for automation tool
-- **Selenium** for automation framework (using POM)
+- **TestNG** for automation framework (using POM)
 - **IDE** like IntelliJ IDEA or Eclipse
 - **Git** for version control
 
