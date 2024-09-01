@@ -57,7 +57,7 @@ This project automates the employee management process on the OrangeHRM demo sit
    - Logout the user.
 
    
-## Automation Showcasing:
+## Automation Demonsration:
 
-## Allure Report:
+## Allure Report showcasing:
 
