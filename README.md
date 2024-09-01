@@ -53,7 +53,7 @@ This project automates the employee management process on the OrangeHRM demo sit
 9. Make Payment:
    - Processes a payment of 100 Tk to a specified merchant.
 10. Check Balance:
-   - Verifies the balance of the recipient customer after all transactions.
+    - Verifies the balance of the recipient customer after all transactions.
    
 ## Automation Showcasing:
 
