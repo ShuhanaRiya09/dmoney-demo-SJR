@@ -35,18 +35,25 @@ This project automates the employee management process on the OrangeHRM demo sit
 1. Login as Admin
    -  Authenticates as an admin and stores the token for further API requests.
    
-2. Create Users: Creates two new customers and one agent.
-   -Go to the PIM menu and create a new employee.
-   -Save the employee's firstname, lastname, employeeId, username, and password into a JSONArray file.
-   -Generate a strong, random password that meets the following criteria:Combination of upper and lower case characters
-   -Includes symbols and numbers
+2. Create Users:
+   - Creates two new customers and one agent.
+   - Go to the PIM menu and create a new employee.
+   - Save the employee's firstname, lastname, employeeId, username, and password into a JSONArray file.
+   - Generate a strong, random password that meets the following criteria:Combination of upper and lower case characters
+   - Includes symbols and numbers
 3. Assert that the employee is created successfully.
-4.Transfer Money: Transfers 2000 Tk from the system account to the newly created agent.
-5.Deposit: Deposits 1500 Tk from the agent's account to a customer's account.
-6. Withdraw: Withdraws 500 Tk from the customer back to the agent.
-7. Send Money: Transfers 500 Tk from one customer to another.
-8. Make Payment: Processes a payment of 100 Tk to a specified merchant.
-9. Check Balance: Verifies the balance of the recipient customer after all transactions.
+4. Transfer Money:
+   - Transfers 2000 Tk from the system account to the newly created agent.
+5.Deposit:
+   - Deposits 1500 Tk from the agent's account to a customer's account.
+6. Withdraw:
+   - Withdraws 500 Tk from the customer back to the agent.
+7. Send Money:
+8. - Transfers 500 Tk from one customer to another.
+9. Make Payment:
+   - Processes a payment of 100 Tk to a specified merchant.
+10. Check Balance:
+   - Verifies the balance of the recipient customer after all transactions.
    
 ## Automation Showcasing:
 
